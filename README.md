@@ -1,4 +1,6 @@
-# GSOC2018_RedHen
+# Optical Character Recognition for television news programs
+
+by Burhan Ul Tayyab for Red Hen Lab's Google Summer of Code 2018
 
 To Use Scrolling Ticker Algorithm, please use "python work.py [your_video_name]"
 
